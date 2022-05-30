@@ -1,0 +1,30 @@
+id: ICE78B77C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:01:23.742271'
+last_modified: '2022-05-31T05:01:23.742280'
+parser: null
+source_metadata:
+  title: Lelung Shepé Dorje Series
+  language: en
+  description: 'Texts by and about the Geluk master Lelung Shepé Dorje (sle lung bzhad
+    pa''i rdo rje, 1697–1740), a prolific author famed for his writings on the dharmapālas:'
+  volume:
+    fF06C:
+      title: An Aspiration to Travel to the Hidden Land of Pemokö
+      base_file: fF06C.txt
+      order: 1
+      parent: Aspiration Prayers
+    f4252:
+      title: 'The Magical Lasso: A Prayer of Aspiration to Accomplish Khecara'
+      base_file: f4252.txt
+      order: 2
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
